@@ -28,7 +28,7 @@
 
 [Service 2 - Users](/Section%203/Service%202%20-%20Users)
 
-[Service 3 - Tokens](/Section%203Service%203%20-%20Tokens/)
+[Service 3 - Tokens](/Section%203/Service%203%20-%20Tokens)
 
 [Service 4 - Checks](/Section%203/Service%204%20-%20Checks)
 
